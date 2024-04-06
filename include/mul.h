@@ -1,0 +1,12 @@
+void demo_vmul_type();
+void demo_vmul_n_type();
+void demo_vmul_lane_type();
+void demo_vmull_type();
+void demo_vmull_n_type();
+void demo_vmull_lane_type();
+void demo_vqdmull_type();
+void demo_vqdmull_n_type();
+void demo_vqdmull_lane_type();
+void demo_vqdmulh_type();
+void demo_vqdmulh_n_type();
+void demo_vqdmulh_lane_type();

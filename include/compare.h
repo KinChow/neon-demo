@@ -1,0 +1,10 @@
+void demo_vceq_type();
+void demo_vcge_type();
+void demo_vcle_type();
+void demo_vcgt_type();
+void demo_vclt_type();
+void demo_vcage_f32();
+void demo_vcale_f32();
+void demo_vcagt_f32();
+void demo_vcalt_f32();
+void demo_vtst_type();

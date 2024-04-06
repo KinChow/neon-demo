@@ -1,0 +1,11 @@
+void demo_vadd_type();
+void demo_vaddl_type();
+void demo_vaddw_type();
+void demo_vaddhn_type();
+void demo_vqadd_type();
+void demo_vhadd_type();
+void demo_vrhadd_type();
+void demo_vpadd_type();
+void demo_vpaddl_type();
+void demo_vpadal_type();
+void demo_vaddv_type();

@@ -1,0 +1,10 @@
+void demo_vmla_type();
+void demo_vmla_n_type();
+void demo_vmla_lane_type();
+void demo_vmlal_type();
+void demo_vmlal_n_type();
+void demo_vmlal_lane_type();
+void demo_vfma_f32();
+void demo_vqdmlal_type();
+void demo_vqdmlal_n_type();
+void demo_vqdmlal_lane_type();
