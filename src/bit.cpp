@@ -7,7 +7,7 @@ void demo_vmvn_type()
 {
     std::cout << __FUNCTION__ << std::endl;
     uint8x8_t v1_u8 = vcreate_u8(0x0807060504030201);
-    uint8x8_t v2_u8 = vmvn_s8(v1_u8);
+    uint8x8_t v2_u8 = vmvn_u8(v1_u8);
     print_vector(v1_u8);
     print_vector(v2_u8);
 }
